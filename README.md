@@ -80,10 +80,9 @@ The goal every time I write code: it should be clean, simplistic, and easy for t
 
 ## 📫 Get in Touch
 
-- 📧 Email: **[YOUR_EMAIL](mailto:YOUR_EMAIL)**
-- 💼 LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- 🐦 X: [YOUR_X_URL](YOUR_X_URL)
-- 🐙 GitHub: [https://github.com/no-hup](https://github.com/no-hup)
+- 📧 Email: **[maverick.shaurya@gmail.com](mailto:maverick.shaurya@gmail.com)**
+- 💼 LinkedIn: [shaurya-jaiswal](https://www.linkedin.com/in/shaurya-jaiswal-bb27b6165/)
+- 🐙 GitHub: [no-hup](https://github.com/no-hup)
 
 ---
 
